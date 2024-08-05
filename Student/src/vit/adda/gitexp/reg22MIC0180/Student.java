@@ -15,7 +15,7 @@ public class Student {
     int schoolYear;
     
     public static void main(String[] args) {
-            
+            System.out.println("22MIC0180");
             }
 }
 
